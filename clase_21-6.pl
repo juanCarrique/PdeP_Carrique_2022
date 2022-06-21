@@ -1,3 +1,5 @@
+meses([enero,febrero,marzo],feos).
+
 estacion(invierno,172,252).
 estacion(otonio,81,171).
 estacion(primavera,253,342).
